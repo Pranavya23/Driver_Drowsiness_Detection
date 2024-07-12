@@ -7,6 +7,7 @@ Reference:
 1. https://timesofindia.indiatimes.com/auto/policy-and-industry/driver-fatigue-led-road-accidents-approaches-india-could-take-to-prevent-these/articleshow/97048300.cms
 2. https://www.nhtsa.gov/risky-driving/drowsy-driving
 3. https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-9/risk-assessment-of-road-traffic-accidents-related-to-sleepiness-during-driving-a-systematic-review.html
+4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9044337/
 
 # Features
 1. Real-Time Detection: Monitors driver's eyes in real-time using a webcam.
