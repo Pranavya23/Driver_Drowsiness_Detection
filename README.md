@@ -26,6 +26,6 @@ Reference:
 <img src="https://github.com/user-attachments/assets/a3b6da8e-0aae-445d-b950-ca9da93be0e8" alt="Active Video Frame" width="400" height="300" style="margin-bottom: 20px;"><br>
 Active Video Frame <br><br>
 <img src="https://github.com/user-attachments/assets/60463c88-f654-4216-8a11-ee406b60abd8" alt="Drowsy Video Frame" width="380" height="300" style="margin-bottom: 20px;"><br>
-Drowsy Video Frame <br><br>
+Drowsy Video Frame <br>Alarm rings<br>
 <img src="https://github.com/user-attachments/assets/f3befe6d-3e1e-40df-acec-118ec965654f" alt="Sleepy Video Frame" width="380" height="300" style="margin-bottom: 20px;"><br>
-Sleepy Video Frame 
+Sleepy Video Frame <br>Alarm rings
