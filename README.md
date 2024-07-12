@@ -20,3 +20,11 @@ Reference:
   During real-time monitoring, the system continuously captures video frames and converts them to grayscale for efficient processing. It detects faces in the frame using dlib's pre-trained face detector and then identifies facial landmarks to locate the eyes. The EAR is calculated for both eyes, and the system determines whether the eyes are open, drowsy, or closed by comparing the current EAR with the baseline EAR. The system increments counters based on the blink state to track how long the driver has been in each state.
 
   If the driver is detected as drowsy or asleep for more than a specified number of frames, the system triggers an auditory alarm. This alarm plays a specific sound file up to 30 times to ensure the driver's attention is captured. The alarm mechanism uses a separate thread to play the sound, ensuring that the main video processing loop is not interrupted. The system continues to monitor the driver's state and resets the alarm counter when the driver returns to an active state.
+
+# Results
+<img src="https://github.com/user-attachments/assets/a3b6da8e-0aae-445d-b950-ca9da93be0e8" alt="Active Video Frame" width="400" height="300" style="margin-bottom: 20px;"><br>
+Active Video Frame <br><br>
+<img src="https://github.com/user-attachments/assets/60463c88-f654-4216-8a11-ee406b60abd8" alt="Drowsy Video Frame" width="380" height="300" style="margin-bottom: 20px;"><br>
+Drowsy Video Frame <br><br>
+<img src="https://github.com/user-attachments/assets/f3befe6d-3e1e-40df-acec-118ec965654f" alt="Sleepy Video Frame" width="380" height="300" style="margin-bottom: 20px;"><br>
+Sleepy Video Frame 
